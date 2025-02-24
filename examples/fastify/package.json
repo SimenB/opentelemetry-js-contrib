@@ -48,8 +48,8 @@
     "@opentelemetry/semantic-conventions": "^1.27.0",
     "@opentelemetry/sdk-trace-base": "~1.19.0",
     "cross-env": "^7.0.3",
-    "axios": "^1.6.4",
-    "fastify": "^4.25.2",
+    "axios": "^1.7.4",
+    "fastify": "^4.29.0",
     "fastify-cors": "^6.1.0",
     "@fastify/express": "^2.3.0",
     "middie": "^7.1.0"
